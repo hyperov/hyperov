@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyperov
 - 👀 I’m interested in android ,java,kotlin and recently flutter and nodejs
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning flutter
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
